@@ -20,7 +20,7 @@ export default function MainBijual() {
                     top={0}
                     left={'15rem'}
                     fontWeight={'extrabold'}
-                >さよなら村上先生</Text>
+                >さよなら村上先生aaa></Text>
                 <Box
                     w={'70%'}
                     h={'95vh'}
